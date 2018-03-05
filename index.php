@@ -35,7 +35,7 @@
     <div class="header">
         <ul class="nav nav-pills pull-right">
             <li <?php if ($id == "inicio") echo "class='active'"; ?>><a href="?id=inicio">Inicio</a></li>
-            <li><a href="demo">Demo</a></li>
+            <li><a href="#">Demo</a></li>
             <li <?php if ($id == "caracteristicas") echo "class='active'"; ?>><a href="?id=caracteristicas">Características</a></li>
             <li <?php if ($id == "galeria") echo "class='active'"; ?>><a href="?id=galeria">Galería</a></li>
             <li><a href="https://github.com/arkabytes/abc/wiki">Soporte</a></li>
